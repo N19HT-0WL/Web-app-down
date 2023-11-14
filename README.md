@@ -5,11 +5,11 @@ Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOU
 
 $ git clone https://github.com/N19HT-0WL/Web-app-down.git
 
-$ cd 
+$ cd Web-app-down
 
-$ chmod +x 
+$ chmod +x 777 *
 
-$ python2 
+$ python2 schinchan.py
 
 
 To Run
